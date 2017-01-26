@@ -1,0 +1,26 @@
+{
+  "name": "turtle-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreSokol/turtle-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreSokol/turtle-web/issues"
+  },
+  "homepage": "https://github.com/AndreSokol/turtle-web#readme",
+  "dependencies": {
+    "ejs-locals": "^1.0.2",
+    "express": "^4.14.0",
+    "express-session": "^1.13.0",
+    "path": "^0.12.7",
+    "pg": "^6.0.1"
+  }
+}
